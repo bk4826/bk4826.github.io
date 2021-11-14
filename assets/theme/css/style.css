@@ -3,6 +3,7 @@ section {
   background-color: #ffffff;
 }
 
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -945,4 +946,8 @@ blockquote {
 	padding: 0;
 	top: 0;
 	left: -2400px;
+}
+
+.cid-s48OLK6784 .navbar:not(.navbar-short) {
+  border-bottom: 10px solid #e6e6e6;
 }
